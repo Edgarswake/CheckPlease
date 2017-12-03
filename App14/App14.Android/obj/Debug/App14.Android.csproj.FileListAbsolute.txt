@@ -1,0 +1,153 @@
+C:\New folder\App14\App14\App14.Android\bin\Debug\App14.Android.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\App14.Android.pdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\App14.Android.apk
+C:\New folder\App14\App14\App14.Android\bin\Debug\App14.Android-Signed.apk
+C:\New folder\App14\App14\App14.Android\bin\Debug\App14.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\FormsViewGroup.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\New folder\App14\App14\App14.Android\bin\Debug\App14.pdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\FormsViewGroup.pdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\New folder\App14\App14\App14.Android\obj\Debug\App14.Android.csprojResolveAssemblyReference.cache
+C:\New folder\App14\App14\App14.Android\obj\Debug\App14.Android.csproj.CoreCompileInputs.cache
+C:\New folder\App14\App14\App14.Android\obj\Debug\App14.Android.dll
+C:\New folder\App14\App14\App14.Android\obj\Debug\App14.Android.pdb
+C:\New folder\App14\App14\App14.Android\obj\Debug\android\bin\App14.Android.apk
+C:\New folder\App14\App14\App14.Android\obj\Debug\res\drawable\icon.png
+C:\New folder\App14\App14\App14.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\New folder\App14\App14\App14.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\New folder\App14\App14\App14.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\New folder\App14\App14\App14.Android\obj\Debug\res\layout\tabbar.xml
+C:\New folder\App14\App14\App14.Android\obj\Debug\res\layout\toolbar.xml
+C:\New folder\App14\App14\App14.Android\obj\Debug\res\values\styles.xml
+C:\New folder\App14\App14\App14.Android\obj\Debug\R.cs.flag
+C:\New folder\App14\App14\App14.Android\obj\Debug\uploadflags.txt
+C:\New folder\App14\App14\App14.Android\bin\Debug\App14.dll.mdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\New folder\App14\App14\App14.Android\bin\Debug\App14.Android.dll.mdb
+C:\New folder\App14\App14\App14.Android\obj\Debug\android\assets\App14.Android.dll.mdb
+C:\New folder\App14\App14\App14.Android\obj\Debug\android\assets\App14.dll.mdb
+C:\New folder\App14\App14\App14.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\New folder\App14\App14\App14.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\New folder\App14\App14\App14.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\New folder\App14\App14\App14.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\App14.Android.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\App14.Android.pdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\App14.Android.apk
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\App14.Android-Signed.apk
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\App14.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\App14.pdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\App14.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\App14.Android.csprojResolveAssemblyReference.cache
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\App14.Android.csproj.CoreCompileInputs.cache
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\App14.Android.dll
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\App14.Android.pdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\android\bin\App14.Android.apk
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\res\drawable\icon.png
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\res\values\styles.xml
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\R.cs.flag
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\uploadflags.txt
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\bin\Debug\App14.Android.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\android\assets\App14.Android.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\android\assets\App14.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\al027\Desktop\Quinto semestre\Introducción al desarrollo de apps\App14\App\App14\App14.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\App14.Android.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\App14.Android.pdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\App14.Android.apk
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\App14.Android-Signed.apk
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\App14.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\App14.pdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\App14.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\App14.Android.csprojResolveAssemblyReference.cache
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\App14.Android.csproj.CoreCompileInputs.cache
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\App14.Android.dll
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\App14.Android.pdb
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\android\bin\App14.Android.apk
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\res\drawable\icon.png
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\res\values\styles.xml
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\R.cs.flag
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\uploadflags.txt
+C:\Users\al027\Desktop\App\App14\App14.Android\bin\Debug\App14.Android.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\android\assets\App14.Android.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\android\assets\App14.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\al027\Desktop\App\App14\App14.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

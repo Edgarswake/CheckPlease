@@ -1,0 +1,37 @@
+C:\New folder\App14\App14\App14\bin\Debug\App14.dll
+C:\New folder\App14\App14\App14\bin\Debug\App14.pdb
+C:\New folder\App14\App14\App14\bin\Debug\Xamarin.Forms.Core.dll
+C:\New folder\App14\App14\App14\bin\Debug\Xamarin.Forms.Platform.dll
+C:\New folder\App14\App14\App14\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\New folder\App14\App14\App14\bin\Debug\Xamarin.Forms.Core.pdb
+C:\New folder\App14\App14\App14\bin\Debug\Xamarin.Forms.Core.xml
+C:\New folder\App14\App14\App14\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\New folder\App14\App14\App14\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\New folder\App14\App14\App14\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\New folder\App14\App14\App14\obj\Debug\App14.csprojResolveAssemblyReference.cache
+C:\New folder\App14\App14\App14\obj\Debug\App14.csproj.CoreCompileInputs.cache
+C:\New folder\App14\App14\App14\obj\Debug\App14.MainPage.xaml.g.cs
+C:\New folder\App14\App14\App14\obj\Debug\App14.App.xaml.g.cs
+C:\New folder\App14\App14\App14\obj\Debug\App14.Page1.xaml.g.cs
+C:\New folder\App14\App14\App14\obj\Debug\App14.Page2.xaml.g.cs
+C:\New folder\App14\App14\App14\obj\Debug\App14.dll
+C:\New folder\App14\App14\App14\obj\Debug\App14.pdb
+C:\New folder\App14\App14\App14\obj\Debug\App14.Page3.xaml.g.cs
+C:\Users\al027\Desktop\App\App14\App14\bin\Debug\App14.dll
+C:\Users\al027\Desktop\App\App14\App14\bin\Debug\App14.pdb
+C:\Users\al027\Desktop\App\App14\App14\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\al027\Desktop\App\App14\App14\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\al027\Desktop\App\App14\App14\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\al027\Desktop\App\App14\App14\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\al027\Desktop\App\App14\App14\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\al027\Desktop\App\App14\App14\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\al027\Desktop\App\App14\App14\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\al027\Desktop\App\App14\App14\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\al027\Desktop\App\App14\App14\obj\Debug\App14.csprojResolveAssemblyReference.cache
+C:\Users\al027\Desktop\App\App14\App14\obj\Debug\App14.csproj.CoreCompileInputs.cache
+C:\Users\al027\Desktop\App\App14\App14\obj\Debug\App14.MainPage.xaml.g.cs
+C:\Users\al027\Desktop\App\App14\App14\obj\Debug\App14.App.xaml.g.cs
+C:\Users\al027\Desktop\App\App14\App14\obj\Debug\App14.Page1.xaml.g.cs
+C:\Users\al027\Desktop\App\App14\App14\obj\Debug\App14.dll
+C:\Users\al027\Desktop\App\App14\App14\obj\Debug\App14.pdb
+C:\Users\al027\Desktop\App\App14\App14\obj\Debug\App14.pago.xaml.g.cs
